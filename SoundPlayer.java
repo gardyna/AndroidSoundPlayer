@@ -81,6 +81,9 @@ public class SoundPlayer {
         }
     }
 
+	public static void playTone(double freq){
+        (new Thread(new p(freq))).run();
+    }
 
     public void playTone(double freq){
         (new Thread(new p(freq))).run();
