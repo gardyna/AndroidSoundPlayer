@@ -16,3 +16,6 @@ SoundPlayer.playTone(500);                   // generate a 500 hz tone
 
 ## notes:
 feel free to do anything you wish with this class
+
+## TODO:
+1. add optional duration variable
