@@ -19,3 +19,4 @@ feel free to do anything you wish with this class
 
 ## TODO:
 1. add optional duration variable
+2. have startPlay and endPlay functions
